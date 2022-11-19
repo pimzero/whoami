@@ -1,0 +1,36 @@
+% whois pimzero
+
+## Bio
+
+I am a French tech worker living in Europe, specialized in low-level computer
+systems.
+
+Summary of my experience & education:
+
+ - Network SRE@Google. Dublin, Ireland. 2019-today
+ - Software Engineer@Arista Networks. Dublin, Ireland. 2018-2019
+ - Teacher Assistant@EPITA. Paris, France. 2017-2018
+ - Research Student@EPITA. Paris, France. 2016-2018
+ - Student@Tampere University of Technology. Tampere, Finland. 2015
+ - Student@EPITA. Paris, France. 2013-2018
+
+## Socials
+
+My socials are:
+
+ - 🧑‍💻 [github.com/pimzer0](https://github.com/pimzer0)
+ - 🐦 [twitter.com/pimzero](https://twitter.com/pimzero)
+ - 🐘 [Mastodon: hachyderm.io/@pim](https://hachyderm.io/@pim)
+ - 🧑‍💼 [linkedin.com/in/pierremarsais/](https://linkedin.com/in/pierremarsais/)
+ - 🌐 [Blog-ish: pimzero.com](https://pimzero.com)
+ - 🗣️ Discord: pim#5234
+ - 📧 E-mail: firstname dot lastname at epita dot fr
+ - 🔒 [GPG Key ID: 0x2D56144B5BBF6D61](openpgp4fpr:C5532E889E62EB44F18B05302D56144B5BBF6D61)
+
+## Metadata
+
+Source: [${GIT_REMOTE_ORIGIN_URL}](${GIT_REMOTE_ORIGIN_URL})
+
+Last updated: ${DATE_ISO_8601}
+
+Signature file: [about.html.sig](https://pimzero.com/about.html.sig)
